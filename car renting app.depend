@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1690670051 source:d:\c++ projects\car renting app\src\car.cpp
+	"car.h"
+
+1690670051 d:\c++ projects\car renting app\include\car.h
+	<string>
+
+1690670149 source:d:\c++ projects\car renting app\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<chrono>
+	<thread>
+	"car.h"
+
